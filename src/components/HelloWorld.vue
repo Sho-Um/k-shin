@@ -1,23 +1,36 @@
 <template>
-  <div class="alert alert-primary">
-    <h1>{{data.title}}</h1>
-    <p class="mt-3 h5">{{data.msg}}</p>
+  <div>
+    <img src="/okagesama.jpg" alt="おかげさまで25周年" class="rounded-circle img-fluid">
   </div>
+  <div>
+          <p>
+              勉 強 ？<br>
+              △□×やらんといけんって<br>
+              わかっとるんじゃけどね～！！<br><br>
+              という時にそばにいて、<br>
+              あなたの本当の力を伝えてあげたい。<br>
+          </p>
+          <p>
+              最初の一歩は踏み出しにくいものです。<br><br>
+              しかし<br>
+              「できない！」と思っている事は<br>
+              同時に<br>
+              「できたい！」気持ちと考えられます。<br><br>
+              困っている、<br>
+              そのエネルギーが必ず、<br>
+              自分を突き動かしてくれます。<br>
+          </p>
+          <p>
+              とりあえず一歩を踏み出してみる。<br><br>
+              やってみて、<br>
+              初めて少しできる自分を発見する。<br><br>
+              そして、それを喜べれば、<br>
+              次へつながる元気が生まれ、<br>
+              信じられる自分に必ず行き着きます。<br><br>
+              その自信が、<br>
+              いろんな事を同時に元気にしていきます。<br>
+          </p>
+          <p><br>K進ゼミナール塾長&emsp;川北 敏彦</p>
+  </div>
+  
 </template>
-
-<script>
-import { ref, reactive } from 'vue'
-
-export default {
-  name: 'HelloWorld',
-  setup(props, context) {
-    const data = reactive({
-      title:'HelloWorld',
-      msg: 'This is HelloWorld component.',
-    })
-    return {
-      data
-    }
-  }
-}
-</script>

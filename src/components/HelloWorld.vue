@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="/okagesama.jpg" alt="おかげさまで25周年" class="rounded-circle img-fluid">
+    <img src="/okagesama.jpg" alt="おかげさまで25周年" class="rounded-circle img-fluid ">
   </div>
   <div>
           <p>

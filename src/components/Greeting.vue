@@ -4,7 +4,7 @@
   </div>
 <div class="news-contents wrapper">
       <article>
-          <p>
+          <p class="animate__animated animate__fadeIn">
               平成７年に開校して以来、<br>地域や周りの方々に支えて頂きながら、<br>
               お陰さまで、今年度の秋には<br>創立２5周年を迎えました。<br><br>
               誠に有難い事です。<br><br>
